@@ -1,8 +1,6 @@
 import {
   Controller,
-  Post,
   OnModuleInit,
-  Body,
   Get,
   Param,
 } from '@nestjs/common';
